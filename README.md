@@ -21,7 +21,7 @@ This project enhances public safety by integrating machine learning models capab
 - 🧩 **Deep Learning Backbone** — Uses **TensorFlow** and **OpenCV** for gun classification and tracking.  
 - 🔔 **Alert System** — Can be extended to trigger alarms, send SMS, or email notifications.  
 - 📊 **Detection Logs** — Saves timestamps, confidence levels, and frame evidence.  
-- 🧠 **Edge Deployable** — Optimized for **GPU** and **CPU** inference using TensorRT or OpenVINO.
+- 🧠 **Edge Deployable** — Optimized for **GPU** and **CPU** inference using TensorRT.
 
 ---
 
