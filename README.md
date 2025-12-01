@@ -3,7 +3,7 @@
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo-Video
 
 [![Watch the Demo](https://img.youtube.com/vi/giGKg2BMJmU/maxresdefault.jpg)](https://www.youtube.com/watch?v=giGKg2BMJmU)
 
