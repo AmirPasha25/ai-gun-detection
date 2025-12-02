@@ -29,7 +29,7 @@ This project enhances public safety by integrating machine learning models capab
 | Category | Technology Used |
 |-----------|-----------------|
 | Language | Python |
-| Frameworks | TensorFlow, OpenCV |
+| Frameworks | Pytorch, TensorFlow, OpenCV |
 | Libraries | NumPy, Matplotlib, Pillow |
 | Model Type | Convolutional Neural Network (CNN) |
 | Deployment | Local system / edge device |
